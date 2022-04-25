@@ -9,4 +9,4 @@ Process:
 2. Data cleaned and reformatted. 
 3. Plotting of Data to graphs. 
 
-This project focuses mainly on Market Research (report) and data cleaning (project).
+This project focuses mainly on Market Research (Report.pdf) and data cleaning (Data Science Project.pdf).
